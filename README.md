@@ -1,9 +1,9 @@
-Used Car Dealership App
-########################
+####Used Car Dealership App####
+
 A web application that connects used car sellers (dealerships) with potential buyers. It allows sellers to list cars with detailed information and enables buyers to browse, search, and contact sellers directly.
 
-Features
-#########
+####Features####
+
 *Browse and search listings for used cars
 
 *Seller dashboard to add/edit/delete vehicle listings
